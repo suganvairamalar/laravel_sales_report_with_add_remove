@@ -1,0 +1,51 @@
+/* open-sans-regular - cyrillic_latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../css/webfonts/open-sans-v17-latin/open-sans-v17-cyrillic_latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+       url('../css/webfonts/open-sans-v17-latin/open-sans-v17-cyrillic_latin-regular.eot?#iefix') format('embedded-opentype'), 
+       url('../css/webfonts/open-sans-v17-latin/open-sans-v17-cyrillic_latin-regular.woff2') format('woff2'), 
+       url('../css/webfonts/open-sans-v17-latin/open-sans-v17-cyrillic_latin-regular.woff') format('woff'), 
+       url('../css/webfonts/open-sans-v17-latin/open-sans-v17-cyrillic_latin-regular.ttf') format('truetype'), 
+       url('../css/webfonts/open-sans-v17-latin/open-sans-v17-cyrillic_latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+
+       /* IE6-IE8 */
+       /* Super Modern Browsers */
+       /* Modern Browsers */
+       /* Safari, Android, iOS */
+}
+
+
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../css/webfonts/montserrat-v14-latin/montserrat-v14-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Regular'), local('Montserrat-Regular'),
+       url('../css/webfonts/montserrat-v14-latin/montserrat-v14-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('../css/webfonts/montserrat-v14-latin/montserrat-v14-latin-regular.woff2') format('woff2'), 
+       url('../css/webfonts/montserrat-v14-latin/montserrat-v14-latin-regular.woff') format('woff'),
+       url('../css/webfonts/montserrat-v14-latin/montserrat-v14-latin-regular.ttf') format('truetype'), 
+       url('../css/webfonts/montserrat-v14-latin/montserrat-v14-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+
+        /* IE6-IE8 */
+        /* Super Modern Browsers */
+        /* Modern Browsers */
+        /* Safari, Android, iOS */
+}
+
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+
+  src: url('../css/webfonts/glyphicons-halflings-regular/glyphicons-halflings-regular.eot');
+  src: url('../css/webfonts/glyphicons-halflings-regular/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+       url('../css/webfonts/glyphicons-halflings-regular/glyphicons-halflings-regular.woff') format('woff'),
+       url('../css/webfonts/glyphicons-halflings-regular/glyphicons-halflings-regular.ttf') format('truetype'),
+       url('../css/webfonts/glyphicons-halflings-regular/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+
