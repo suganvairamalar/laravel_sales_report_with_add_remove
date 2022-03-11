@@ -505,7 +505,7 @@ $(document).on('click', '.edit', function(){
 
 
 var order_id;
-  $(document).on('click', '.delete', function(){
+  $(document).on('click', '.deleterow', function(){
       order_id = $(this).attr('id');
       $('#order_confirm_Modal').modal('show');      
   });
