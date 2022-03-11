@@ -30,7 +30,7 @@
             <td>
                 <!-- class="btn btn-info glyphicon glyphicon-th detailbtn" -->
                <button type="button" name="edit" id="{{ $order->id }}" class="edit btn btn-warning btn-sm">Edit</button> <!-- class="btn btn-warning glyphicon glyphicon-edit editbtn" -->
-               <button type="button" name="delete" id="{{ $order->id }}" class="delete btn btn-danger btn-sm">Delete</button> <!-- class="btn btn-danger glyphicon glyphicon-trash deletebtn" -->
+               <button type="button" name="delete" id="{{ $order->id }}" class="deleterow btn btn-danger btn-sm">Delete</button> <!-- class="btn btn-danger glyphicon glyphicon-trash deletebtn" -->
             </td>
          </tr>
          @endforeach       
